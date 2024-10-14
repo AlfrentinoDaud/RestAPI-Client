@@ -1,0 +1,30 @@
+[
+    {
+        "nama": "Daud",
+        "umur": 20,
+        "nim": "225314177",
+        "lulus": true,
+        "hobby": [
+            "coding",
+            "reading"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Kartono",
+            "pembimbing2": "Antok"
+        }
+    },
+    {
+        "nama": "Daud",
+        "umur": 20,
+        "nim": "225314177",
+        "lulus": true,
+        "hobby": [
+            "coding",
+            "reading"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Kartono",
+            "pembimbing2": "Antok"
+        }
+    }
+]
